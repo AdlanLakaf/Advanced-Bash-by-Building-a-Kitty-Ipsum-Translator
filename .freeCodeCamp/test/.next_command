@@ -121,3 +121,4 @@ echo \nNumber of times meow or meowzer appears: >> ktty_info.txt
 echo \nNumber of times meow or meowzer appears: >> kitty_info.txt
 echo Number of times meow or meowzer appears: >> kitty_info.txt
 echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
+grep --color 'meow[a-z]*' kitty_ipsum_1.txt
