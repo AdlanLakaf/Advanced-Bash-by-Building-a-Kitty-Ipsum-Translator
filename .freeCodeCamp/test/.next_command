@@ -211,3 +211,12 @@ diff --color kitty_ipsum_1.txt doggy_ipsum_1.txt
 ./translate.sh kitty_ipsum_2.txt > doggy_ipsum_2.txt
 cat doggy_ipsum_2.txt
 diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+echo "# Advanced-Bash-by-Building-a-Kitty-Ipsum-Translator" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AdlanLakaf/Advanced-Bash-by-Building-a-Kitty-Ipsum-Translator.git
+git push -u origin main
+git git add .
+git add .
