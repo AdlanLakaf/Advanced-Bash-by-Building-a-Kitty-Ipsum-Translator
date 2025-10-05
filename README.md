@@ -3,21 +3,6 @@
 
 > Translate “kitty ipsum” text to “doggy ipsum” (or vice versa), built with advanced Bash scripting techniques.
 
----
-
-### Table of Contents
-
-1. [About](#about)  
-2. [Features](#features)  
-3. [Usage](#usage)  
-4. [Project Structure](#project-structure)  
-5. [Installation](#installation)  
-6. [Examples](#examples)  
-7. [Contributing](#contributing)  
-8. [License](#license)
-
----
-
 ## About
 
 This project is part of an **Advanced Bash** challenge where we build a **Kitty Ipsum Translator**:
