@@ -44,3 +44,4 @@ echo hello bash > stdout.txt
 tail stdout.txt
 > stdout.txt
 bad_command
+bad_command > stderr.txt
