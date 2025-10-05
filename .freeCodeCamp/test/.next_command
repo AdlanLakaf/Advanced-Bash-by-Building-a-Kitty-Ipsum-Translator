@@ -70,3 +70,4 @@ cat < name.txt
 echo hihihi
 touch script.sh
 chmod +x script.sh
+./script.sh
