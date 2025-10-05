@@ -69,3 +69,4 @@ cat name.txt < stdin.txt
 cat < name.txt
 echo hihihi
 touch script.sh
+chmod +x script.sh
