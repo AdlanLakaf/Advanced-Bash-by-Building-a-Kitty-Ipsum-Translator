@@ -84,3 +84,5 @@ tail stdout.txt
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
 ls --color=auto
 cat kitty_ipsum_1.txt
+ls --color=auto
+cat kitty_ipsum_2.txt
