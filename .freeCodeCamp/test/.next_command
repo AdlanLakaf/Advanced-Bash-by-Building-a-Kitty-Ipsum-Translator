@@ -77,3 +77,6 @@ echo hihihi
 echo hihihi
 echo hihihi
 echo hihihi
+tal stdout.txt
+tail stdout.txt
+./script.sh < name.txt
