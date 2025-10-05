@@ -53,3 +53,4 @@ read NAME
 echo
 echo NAME
 echo $NAME
+echo $NAME > stdout.txt
