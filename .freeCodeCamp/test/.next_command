@@ -68,3 +68,4 @@ cat name.txt < name.txt
 cat name.txt < stdin.txt
 cat < name.txt
 echo hihihi
+touch script.sh
