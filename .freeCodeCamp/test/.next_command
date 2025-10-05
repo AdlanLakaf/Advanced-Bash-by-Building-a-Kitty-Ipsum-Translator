@@ -50,3 +50,6 @@ tail stderr.txt
 echo hello bash > stdout.txt
 tail stdout.txt
 read NAME
+echo
+echo NAME
+echo $NAME
