@@ -43,3 +43,4 @@ tail stdout.txt
 echo hello bash > stdout.txt
 tail stdout.txt
 > stdout.txt
+bad_command
