@@ -41,3 +41,5 @@ echo hello bash >> stdout.txt
 cut stdout.txt
 tail stdout.txt
 echo hello bash > stdout.txt
+tail stdout.txt
+> stdout.txt
