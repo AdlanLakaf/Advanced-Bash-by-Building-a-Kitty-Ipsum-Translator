@@ -179,3 +179,4 @@ echo -e "\nLines that they appear on:" >> kitty_info.txt
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 grep -n 'meow[a-z]*' kitty_ipsum_2.txt
+grep --color 'cat[a-z]*' kitty_ipsum_2.txt
