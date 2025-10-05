@@ -134,3 +134,4 @@ grep -l 'meow[a-z]*' kitty_ipsum_1.txt
 grep -l 'meow[a-z]*' kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 man grep
+cat name.txt
