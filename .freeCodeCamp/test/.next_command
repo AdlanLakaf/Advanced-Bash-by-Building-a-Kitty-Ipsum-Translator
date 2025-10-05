@@ -87,3 +87,6 @@ cat kitty_ipsum_1.txt
 ls --color=auto
 cat kitty_ipsum_2.txt
 wc kitty_ipsum_1.txt
+wc -info
+wc --help
+man wc
