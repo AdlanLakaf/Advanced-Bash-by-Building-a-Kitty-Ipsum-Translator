@@ -64,3 +64,6 @@ echo NAME
 echo $NAME
 cat
 cat name.txt
+cat name.txt < name.txt
+cat name.txt < stdin.txt
+cat < name.txt
